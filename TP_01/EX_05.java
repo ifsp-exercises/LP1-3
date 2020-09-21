@@ -1,7 +1,7 @@
 /*
   Proposta
     Calcular e exibir o volume de uma esfera a partir do valor
-    de seu diâmetro que será digitado. 
+    de seu diâmetro que será digitado.
 */
 
 import java.util.Scanner;
@@ -10,10 +10,10 @@ public class EX_05 {
   public static void main(String[] args) {
     String inputValue = "";
     double diameter, radius, volume;
-    
+
     Scanner scanner = new Scanner(System.in);
 
-    System.out.print("Informe a base da esfera: ");
+    System.out.print("Informe o diâmetro da esfera: ");
     inputValue = scanner.next();
     diameter = Double.parseDouble(inputValue);
 

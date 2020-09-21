@@ -24,6 +24,6 @@ public class EX_01 {
     area = base * height;
 
     System.out.println();
-    System.out.println("Área do triângulo: " + area);
+    System.out.println("Área do retângulo: " + area);
   }
 }
