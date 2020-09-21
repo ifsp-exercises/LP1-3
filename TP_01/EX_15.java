@@ -1,10 +1,3 @@
-/*
-  Proposta
-    Entrar via teclado com o valor da cotação do dólar e uma certa 
-    quantidade de dólares.
-    Calcular e exibir o valor correspondente em Reais (R$). 
-*/
-
 import java.util.Scanner;
 
 public class EX_15 {
@@ -12,7 +5,7 @@ public class EX_15 {
     String inputValue = "";
 
     double dollarQuote, quantityInDollars;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe a cotação do dólar: ");

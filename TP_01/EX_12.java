@@ -1,9 +1,3 @@
-/*
-  Proposta
-    Calcular e exibir o volume de um cone a partir dos 
-    valores da altura e do raio da base que serão digitados. 
-*/
-
 import java.util.Scanner;
 
 public class EX_12 {
@@ -11,7 +5,7 @@ public class EX_12 {
     String inputValue = "";
 
     double height, radius, volume;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe a altura do cone: ");

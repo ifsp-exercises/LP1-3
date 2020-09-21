@@ -1,9 +1,3 @@
-/*
-  Proposta
-    A partir do diâmetro de um círculo que será digitado, 
-    calcular e exibir sua área    
-*/
-
 import java.util.Scanner;
 
 public class EX_11 {
@@ -11,7 +5,7 @@ public class EX_11 {
     String inputValue = "";
 
     double diameter, area;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe o diâmetro da circunferência: ");

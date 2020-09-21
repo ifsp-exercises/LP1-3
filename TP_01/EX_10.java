@@ -1,9 +1,3 @@
-/*
-  Proposta
-    Entrar via teclado com o valor de uma temperatura em graus Celsius, 
-    calcular e exibir sua temperatura equivalente em Fahrenheit
-*/
-
 import java.util.Scanner;
 
 public class EX_10 {
@@ -11,7 +5,7 @@ public class EX_10 {
     String inputValue = "";
 
     double celsius, fahrenheit;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe a temperature em graus celsius: ");

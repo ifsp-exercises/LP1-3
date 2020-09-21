@@ -16,6 +16,7 @@ Trabalho prático 01
 ## 01
 Entrar via teclado com a `base` e a `altura` de um retângulo, calcular e exibir sua `área`.
 
+*<a href="./EX_01.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -27,6 +28,7 @@ Entrar via teclado com a `base` e a `altura` de um retângulo, calcular e exibir
 ## 02
 Calcular e exibir a `área` de um quadrado, a partir do valor de sua `aresta` que será digitado.
 
+*<a href="./EX_02.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -38,6 +40,7 @@ Calcular e exibir a `área` de um quadrado, a partir do valor de sua `aresta` qu
 ## 03
 Calcular e exibir a `área` de um quadrado a partir do valor de sua `diagonal` que será digitado.
 
+*<a href="./EX_03.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -49,6 +52,7 @@ Calcular e exibir a `área` de um quadrado a partir do valor de sua `diagonal` q
 ## 04
 A partir dos valores da `base` e `altura` de um triângulo, calcular e exibir sua `área`.
 
+*<a href="./EX_04.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -60,6 +64,7 @@ A partir dos valores da `base` e `altura` de um triângulo, calcular e exibir su
 ## 05
 Calcular e exibir o `volume` de uma esfera a partir do valor de seu `diâmetro` que será digitado.
 
+*<a href="./EX_05.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -71,6 +76,7 @@ Calcular e exibir o `volume` de uma esfera a partir do valor de seu `diâmetro` 
 ## 06
 Calcular e exibir a **média aritmética** de **quatro valores** quaisquer que serão digitados.
 
+*<a href="./EX_06.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -82,6 +88,7 @@ Calcular e exibir a **média aritmética** de **quatro valores** quaisquer que s
 ## 07
 Calcular e exibir a **média geométrica** de **dois valores** quaisquer que serão digitados.
 
+*<a href="./EX_07.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -95,6 +102,7 @@ Sabendo que **uma milha marítima** equivale a **um mil, oitocentos e cinquenta 
 e que **um quilômetro possui mil metros**,
 fazer um programa para converter milhas marítimas em quilômetros.
 
+*<a href="./EX_08.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -108,6 +116,7 @@ Calcular e exibir a `tensão` de um determinado circuito eletrônico a partir do
 
 **Obs**: Utilize a lei de Ohm.
 
+*<a href="./EX_09.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -119,6 +128,7 @@ Calcular e exibir a `tensão` de um determinado circuito eletrônico a partir do
 ## 10
 Entrar via teclado com o valor de uma `temperatura` em graus Celsius, calcular e exibir sua temperatura equivalente em Fahrenheit.
 
+*<a href="./EX_10.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -130,6 +140,7 @@ Entrar via teclado com o valor de uma `temperatura` em graus Celsius, calcular e
 ## 11
 A partir do `diâmetro` de um círculo que será digitado, calcular e exibir sua `área`.
 
+*<a href="./EX_11.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -141,6 +152,7 @@ A partir do `diâmetro` de um círculo que será digitado, calcular e exibir sua
 ## 12
 Calcular e exibir o `volume` de um cone a partir dos valores da `altura` e do `raio` da base que serão digitados.
 
+*<a href="./EX_12.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -153,6 +165,7 @@ Calcular e exibir o `volume` de um cone a partir dos valores da `altura` e do `r
 Calcular e exibir a `velocidade final` (em km/h) de um automóvel, a partir dos valores da
 `velocidade inicial` (em m/s), da `aceleração` (m/s²) e do `tempo de percurso` (em s) que serão digitados.
 
+*<a href="./EX_13.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -165,6 +178,7 @@ Calcular e exibir a `velocidade final` (em km/h) de um automóvel, a partir dos 
 Calcular e exibir o `volume` livre de um ambiente que contém uma esfera de raio `r` inscrita em um cubo perfeito de aresta `a`.
 Os valores de `r` e `a` serão digitados.
 
+*<a href="./EX_14.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -177,6 +191,7 @@ Os valores de `r` e `a` serão digitados.
 Entrar via teclado com o valor da `cotação do dólar` e uma certa `quantidade` de dólares.
 Calcular e exibir o valor `correspondente em Reais` (R$).
 
+*<a href="./EX_15.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -195,6 +210,7 @@ Entrar via teclado com o valor de um `ângulo` em graus, calcular e exibir as se
 
 Lembre-se que uma função trigonométrica trabalha em *radianos*.
 
+*<a href="./EX_16.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -206,8 +222,9 @@ Lembre-se que uma função trigonométrica trabalha em *radianos*.
 ## 17
 Entrar via teclado com dois valores quaisquer `X` e `Y`.
 Calcular e exibir o cálculo XY (`X` elevado a `Y`).
-*Obs*: Pesquisar as funções Exp e Ln.
+**Obs**: Pesquisar as funções Exp e Ln.
 
+*<a href="./EX_17.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">
@@ -221,6 +238,7 @@ Entrar via teclado com o valor de *cinco produtos*.
 Após as entradas, digitar um *valor referente ao pagamento* da somatória destes valores.
 Calcular e exibir o *troco* que deverá ser devolvido.
 
+*<a href="./EX_18.java">Resolução</a>*
 ### Resultado:
 
 <p align="center">

@@ -1,10 +1,3 @@
-/*
-  Proposta
-    Entrar via teclado com dois valores quaisquer “X” e “Y”. 
-    Calcular e exibir o cálculo XY (“X” elevado a “Y”). 
-    Pesquisar as funções Exp e Ln.
-*/
-
 import java.util.Scanner;
 
 public class EX_17 {
@@ -12,7 +5,7 @@ public class EX_17 {
     String inputValue = "";
 
     double x, y;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe o valor de X: ");
@@ -24,6 +17,6 @@ public class EX_17 {
     y = Double.parseDouble(inputValue);
 
     System.out.println();
-    System.out.println("X^Y: " + Math.pow(x, y));       
+    System.out.println("X^Y: " + Math.pow(x, y));
   }
 }

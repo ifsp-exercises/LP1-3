@@ -1,12 +1,3 @@
-/*
-  Proposta
-    Calcular e exibir a velocidade final (em km/h) de um automóvel, 
-    a partir dos valores da 
-    velocidade inicial (em m/s), 
-    da aceleração (m/s²) e do 
-    tempo de percurso (em s) que serão digitados.
-*/
-
 import java.util.Scanner;
 
 public class EX_13 {
@@ -14,7 +5,7 @@ public class EX_13 {
     String inputValue = "";
 
     double initialVelocity, aceleration, percurseTime, finalVelocity;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe a velocidade inicial (m/s): ");

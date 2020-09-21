@@ -1,10 +1,3 @@
-/*
-  Proposta
-    Calcular e exibir o volume livre de um ambiente que contém 
-    uma esfera de raio “r” inscrita em um cubo perfeito de aresta “a”. 
-    Os valores de “r “ e “a” serão digitados. 
-*/
-
 import java.util.Scanner;
 
 public class EX_14 {
@@ -12,7 +5,7 @@ public class EX_14 {
     String inputValue = "";
 
     double sphereRadius, cubeEdge;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe o raio da esfera: ");

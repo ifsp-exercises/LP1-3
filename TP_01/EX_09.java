@@ -1,10 +1,3 @@
-/*
-  Proposta
-    Calcular e exibir a tensão de um determinado circuito eletrônico a partir 
-    dos valores da resistência e corrente elétrica que serão digitados. 
-    Utilize a lei de Ohm. 
-*/
-
 import java.util.Scanner;
 
 public class EX_09 {
@@ -12,7 +5,7 @@ public class EX_09 {
     String inputValue = "";
 
     double resistence, electricCurrent, voltage;
-    
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Informe a resistência: ");
