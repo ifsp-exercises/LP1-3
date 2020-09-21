@@ -162,8 +162,8 @@ Calcular e exibir a `velocidade final` (em km/h) de um automóvel, a partir dos 
 <hr />
 
 ## 14
-Calcular e exibir a `velocidade final` (em km/h) de um automóvel, a partir dos valores da
-`velocidade inicial` (em m/s), da `aceleração` (m/s²) e do `tempo de percurso` (em s) que serão digitados.
+Calcular e exibir o `volume` livre de um ambiente que contém uma esfera de raio `r` inscrita em um cubo perfeito de aresta `a`.
+Os valores de `r` e `a` serão digitados.
 
 ### Resultado:
 
@@ -186,21 +186,45 @@ Calcular e exibir o valor `correspondente em Reais` (R$).
 <hr />
 
 ## 16
-Entrar via teclado com o valor de um ângulo em graus,
-    calcular e exibir as seguintes funções trigonométricas:
+Entrar via teclado com o valor de um `ângulo` em graus, calcular e exibir as seguintes funções trigonométricas:
 
-    - seno,
-    - cosseno,
-    - tangente e
-    - secante
+ - seno
+ - cosseno
+ - tangente
+ - secante
 
-    deste ângulo.
-    Lembre-se que uma função trigonométrica trabalha em radianos.
+Lembre-se que uma função trigonométrica trabalha em *radianos*.
 
 ### Resultado:
 
 <p align="center">
   <img alt="Resolução" src="./.github/images/16.png" />
+</p>
+
+<hr />
+
+## 17
+Entrar via teclado com dois valores quaisquer `X` e `Y`.
+Calcular e exibir o cálculo XY (`X` elevado a `Y`).
+*Obs*: Pesquisar as funções Exp e Ln.
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/17.png" />
+</p>
+
+<hr />
+
+## 18
+Entrar via teclado com o valor de *cinco produtos*.
+Após as entradas, digitar um *valor referente ao pagamento* da somatória destes valores.
+Calcular e exibir o *troco* que deverá ser devolvido.
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/18.png" />
 </p>
 
 <hr />
