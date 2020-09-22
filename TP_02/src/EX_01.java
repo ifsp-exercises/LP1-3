@@ -1,8 +1,12 @@
 public class EX_01 {
 
   public static void main(String[] args) {
-    double a = Util.requestDouble("Give me um double aí: ");
+    double x, y;
 
-    System.out.println(a);
+    x = Util.requestDouble("Informe o primeiro valor: ");
+
+    do {
+      y = Util.requestDouble("Digite um valor maior que o primeiro: ");
+    } while (x >= y);
   }
 }
