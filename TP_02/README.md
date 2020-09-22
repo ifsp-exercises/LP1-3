@@ -75,3 +75,17 @@ _<a href="./src/EX_03.java">Resolução</a>_
 </p>
 
 <hr />
+
+## 04
+
+Armazenar seis valores em uma matriz de ordem 2x3. Apresentar os valores na tela.
+
+_<a href="./src/EX_04.java">Resolução</a>_
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/04.png" />
+</p>
+
+<hr />
