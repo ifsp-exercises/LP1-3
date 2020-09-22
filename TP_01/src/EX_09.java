@@ -16,7 +16,7 @@ public class EX_09 {
     inputValue = scanner.next();
     electricCurrent = Double.parseDouble(inputValue);
 
-    voltage = resistence * electricCurrent;
+    voltage = (resistence * electricCurrent) * 100;
 
     System.out.println();
     System.out.println("Potencial elétrico: " + voltage);
