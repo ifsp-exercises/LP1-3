@@ -13,7 +13,7 @@ public class EX_02 {
         false
       );
 
-    double biggestValue = Util.Collections.findbBiggest(positiveValues);
+    double biggestValue = Util.Collections.findBiggest(positiveValues);
     double sum = Util.Collections.sumValues(positiveValues);
     double average = Util.Collections.calculateAverage(positiveValues);
 
