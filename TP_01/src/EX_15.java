@@ -18,7 +18,7 @@ public class EX_15 {
 
     double quantityInReais;
 
-    quantityInReais = quantityInDollars / dollarQuote;
+    quantityInReais = quantityInDollars * dollarQuote;
 
     System.out.println();
     System.out.println("Quantia em reais: " + quantityInReais);
