@@ -134,3 +134,41 @@ _<a href="./src/EX_07.java">Resolução</a>_
 </p>
 
 <hr />
+
+## 08
+
+Entrar via teclado com doze valores e armazená-los em uma matriz de ordem 3x4.
+
+Após a digitação dos valores solicitar uma constante multiplicativa,
+que deverá multiplicar cada  valor matriz e armazenar o resultado em outra matriz de mesma ordem,
+nas posições  correspondentes.
+
+Exibir as matrizes na tela, sob a forma matricial, ou seja, linhas por  colunas.
+
+_<a href="./src/EX_08.java">Resolução</a>_
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/08.png" />
+</p>
+
+<hr />
+
+## 09
+
+Entrar com uma matriz de ordem MxN, onde a ordem também será escolhida pelo usuário,
+sendo que no máximo 10x10.
+
+A matriz não precisa ser quadrática.
+Após a digitação dos  elementos, calcular e exibir a matriz transposta.
+
+_<a href="./src/EX_09.java">Resolução</a>_
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/09.png" />
+</p>
+
+<hr />

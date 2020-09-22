@@ -17,4 +17,3 @@ FILENAME=EX_07
 javac -sourcepath ./src ./src/$FILENAME.java -d ./build
 
 java -cp ./build/ $FILENAME
-
