@@ -89,3 +89,48 @@ _<a href="./src/EX_04.java">Resolução</a>_
 </p>
 
 <hr />
+
+## 05
+
+Armazenar seis valores em uma matriz de ordem 3x2. Apresentar os valores na tela.
+
+_<a href="./src/EX_05.java">Resolução</a>_
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/05.png" />
+</p>
+
+<hr />
+
+## 06
+
+Armazenar seis nomes em uma matriz de ordem 2x3. Apresentar os nomes na tela.
+
+_<a href="./src/EX_06.java">Resolução</a>_
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/06.png" />
+</p>
+
+<hr />
+
+## 07
+
+Entrar via teclado com doze valores e armazená-los em uma matriz de ordem 3x4.
+Após a digitação dos valores solicitar uma constante multiplicativa,
+que deverá multiplicar cada valor matriz e armazenar o resultado na própria matriz,
+nas posições correspondentes.
+
+_<a href="./src/EX_07.java">Resolução</a>_
+
+### Resultado:
+
+<p align="center">
+  <img alt="Resolução" src="./.github/images/07.png" />
+</p>
+
+<hr />

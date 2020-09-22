@@ -1,7 +1,7 @@
-public class EX_04 {
+public class EX_05 {
 
   public static void main(String[] args) {
-    int dimentionX = 2, dimentionY = 3;
+    int dimentionX = 3, dimentionY = 2;
 
     double[][] matrix;
 

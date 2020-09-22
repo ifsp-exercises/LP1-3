@@ -1,19 +1,19 @@
-public class EX_04 {
+public class EX_06 {
 
   public static void main(String[] args) {
     int dimentionX = 2, dimentionY = 3;
 
-    double[][] matrix;
+    String[][] matrix;
 
-    matrix = new double[dimentionX][dimentionY];
+    matrix = new String[dimentionX][dimentionY];
 
     for (int x = 1; x <= dimentionX; x++) {
       for (int y = 1; y <= dimentionY; y++) {
-        double currentValue;
+        String currentValue;
 
         currentValue =
-          Util.Input.requestDouble(
-            "Insira o valor da posição " + x + "x" + y + " da matriz: "
+          Util.Input.requestString(
+            "Insira o nome da posição " + x + "x" + y + " da matriz: "
           );
 
         int currentIndexX = x - 1, currentIndexY = y - 1;
