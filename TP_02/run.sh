@@ -12,7 +12,7 @@
 
 # rm ./**.class
 
-FILENAME=EX_07
+FILENAME=EX_09
 
 javac -sourcepath ./src ./src/$FILENAME.java -d ./build
 
