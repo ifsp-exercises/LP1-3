@@ -3,7 +3,7 @@ public class EX_09 {
   public static void main(String[] args) {
     int dimentionX, dimentionY;
 
-    double[][] originalMatrix, transposedMatrix;
+    double[][] originalMatrix;
 
     boolean itsAValidInput;
 

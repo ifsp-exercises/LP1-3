@@ -4,9 +4,11 @@ public class Util {
 
   public static class Input {
 
+    private static Scanner scanner;
+
     private static String requestInput(String message) {
       String inputValue = "";
-      Scanner scanner = new Scanner(System.in);
+      scanner = new Scanner(System.in);
 
       System.out.print(message);
       inputValue = scanner.next();

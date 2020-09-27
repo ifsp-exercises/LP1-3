@@ -15,7 +15,7 @@ public class EX_08 {
 
         currentValue =
           Util.Input.requestDouble(
-            "Insira o nome da posição " + x + "x" + y + " da matriz: "
+            "Insira o valor da posição " + x + "x" + y + " da matriz: "
           );
 
         int currentIndexX = x - 1, currentIndexY = y - 1;

@@ -140,10 +140,10 @@ _<a href="./src/EX_07.java">Resolução</a>_
 Entrar via teclado com doze valores e armazená-los em uma matriz de ordem 3x4.
 
 Após a digitação dos valores solicitar uma constante multiplicativa,
-que deverá multiplicar cada  valor matriz e armazenar o resultado em outra matriz de mesma ordem,
-nas posições  correspondentes.
+que deverá multiplicar cada valor matriz e armazenar o resultado em outra matriz de mesma ordem,
+nas posições correspondentes.
 
-Exibir as matrizes na tela, sob a forma matricial, ou seja, linhas por  colunas.
+Exibir as matrizes na tela, sob a forma matricial, ou seja, linhas por colunas.
 
 _<a href="./src/EX_08.java">Resolução</a>_
 
@@ -161,7 +161,7 @@ Entrar com uma matriz de ordem MxN, onde a ordem também será escolhida pelo us
 sendo que no máximo 10x10.
 
 A matriz não precisa ser quadrática.
-Após a digitação dos  elementos, calcular e exibir a matriz transposta.
+Após a digitação dos elementos, calcular e exibir a matriz transposta.
 
 _<a href="./src/EX_09.java">Resolução</a>_
 
@@ -170,5 +170,48 @@ _<a href="./src/EX_09.java">Resolução</a>_
 <p align="center">
   <img alt="Resolução" src="./.github/images/09.png" />
 </p>
+
+<hr />
+
+## 😞 10
+
+_Não consegui fazer ainda_
+
+Entrar com uma matriz de ordem MxM, onde a ordem também será escolhida pelo usuário,
+sendo que no máximo será de ordem 10 e quadrática.
+
+Após a digitação dos elementos, calcular e exibir a matriz inversa.
+Exibir as matrizes na tela, sob a forma matricial (linhas x colunas).
+
+<!-- _<a href="./src/EX_09.java">Resolução</a>_ -->
+
+### Resultado:
+
+_Sem resultados por aqui..._
+
+<!-- <p align="center">
+  <img alt="Resolução" src="./.github/images/09.png" />
+</p> -->
+
+<hr />
+
+## 😞 11
+
+_Não consegui fazer ainda_
+
+Entrar com uma matriz de ordem MxM, onde a ordem também será escolhida pelo usuário,
+sendo que no máximo será de ordem 10 e quadrática.
+
+Após a digitação dos elementos, calcular e exibir determinante da matriz.
+
+<!-- _<a href="./src/EX_09.java">Resolução</a>_ -->
+
+### Resultado:
+
+_Sem resultados por aqui..._
+
+<!-- <p align="center">
+  <img alt="Resolução" src="./.github/images/09.png" />
+</p> -->
 
 <hr />
