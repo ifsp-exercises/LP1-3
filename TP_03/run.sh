@@ -1,8 +1,8 @@
 #! /bin/sh
 
 # javac -sourcepath ./src ./src/TestHour.java -d ./build
-javac TestHour.java -d ./build
+javac src/TestHour.java -d ./build
 
-java -cp ./build/ TestHour
+java -cp ./build/ src.TestHour
 
 rm ./build/ -rf
