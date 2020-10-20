@@ -65,13 +65,13 @@ public class Hour {
   }
 
   public Hour() {
-    this.setHours();
-    this.setMinutes();
-    this.SetSeconds();
-
     this.hours = 0;
     this.minutes = 0;
     this.seconds = 0;
+
+    this.setHours();
+    this.setMinutes();
+    this.SetSeconds();
   }
 
   public Hour(int hours, int minutes, int seconds) {
